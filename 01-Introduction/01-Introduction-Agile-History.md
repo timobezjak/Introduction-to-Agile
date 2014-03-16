@@ -1,0 +1,82 @@
+# The Origins of Agile Development
+<!-- 1.1.1 Origins of Agile -->
+These days the Agile Alliance turned 13 years old. In February 2001, a group of 17 people gathered in Snowbird, a ski resort in Utah, to define some common ground on which to continue building the “lightweight” project models they were already working on at the time. So _Extreme Programming_, _Scrum_, _DSDM_, and several other approaches already existed at the time.
+
+The group agreed to ditch the term “lightweight” in favour of “agile”, because they wanted to avoid their ideas to be perceived as some simplification of project management concepts, by “lightweight” people, aimed at “lightweight” projects[^1]. In comparison, “agile” stands for the powerful flexibility of a bamoboo rod.
+
+## The Agile Manifesto
+Much to the surprise of the participants, the group actually managed to phrase and agree upon a concise description of the fundamental differences between the prevailing project management methodologies and their _agile_ counterparts as represented by that group of seventeen.
+
+## Twelve Principles of Agile Development
+In addition to the Manifesto, the seventeen thought leaders[^5] defined twelve [Principles behind the Agile Manifesto][4] to follow in order to become more agile. Each one of them would warrant an article on their own, and re-reading them from time to time is certainly a good idea. Simple and straight-forward as they are, they convey a wealth of practical knowledge on how to bring the Manifesto to life. You should read them now!
+
+## Before the Manifesto
+The Manifesto is an immensely practical, down-to-earth statement, which has a lot to do with the fact that it was not created out of thin air.
+
+Extreme Programming had been developed between 1995 and 2000 by Kent Beck, Ward Cunningham and Ron Jeffries[^2]. It describes a process heavy on direct communication between customers, developers and stakeholders; low on specification, documentation and up-front design; and based on short-cycled iterations, each of which results in a valuable increment of the product.
+
+Scrum had first been presented by Ken Schwaber and Jeff Sutherland in 1995[^3]. The method propagates an iterative process as well, with iterations taking up to four weeks. Business people and developers work closely together to identify what are the highest-priority things to work on, and to transform these requirements into working software as the result of each iteration.
+
+Likewise, DSDM, Crystal Clear, and Pragmatic Programming had been described and used, by the people representing them in Snowbird and others, before the group met. Thus the Agile Manifesto is an amalgam of ideas that at the time had already proven their practicability.
+
+## Agile Beyond Software
+<!-- 1.1.3. Agile beyond software development
+Agile is gaining increasing adoption throughout the organization.
+The purpose of this LO is to introduce the learner to Agile beyond the software development team.
+To be acceptable, this LO should include discussion of the tracks in the ICAgile roadmap - which disciplines are covered, and how the tracks integrate with one another to support the entire enterprise.  -->
+The agile manifesto, as we saw, was proclaimed by computer software people, and the methods upon whose principles it was built, were all developed for software projects. But their creators were of course familiar with, and drew a lot of inspiration from, other areas such as the japanese manufacturing industry.
+
+In recent years people began applying those ideas back to other disciplines of managing complex systems, such as general management and manufacturing.
+
+### Agile Management
+> “The only meaningful competitive advantage is the productivity of 
+> the knowledge worker. And that is very largely in the hands of the
+> knowledge worker rather than in the hands of management.”
+> —<em>Peter F. Drucker, Management [^6]</em>
+
+Known as the first person to systematically and scientifically study the way labour is organised, Frederick Winslow Taylor proclaimed, at the beginning of the last century, the separation of thinking and doing in organisations, that is, management and work-force. His findings were revolutionary at the time and led to vast improvements in productivity as well as the well-being of the workers.
+
+While many of his ideas are still commonplace in today’s corporations, the underlying mechanistic thinking has proven to be inappropriate for organising complex work such as software development. _Management 3.0_ is Jurgen Appelo’s attempt at applying agile principles and _complexity thinking_ to the management of organisations. Quite convincingly, he shows that workplace satisfaction and productivity depend on how 
+
+His ideas are not new – he refers to his mixing and matching existing theories and practices to form a new, consistent model as the _mojito method_. But to my knowledge Appelo was first to creating such a model largely on agile principles.
+
+### Agile Manufacturing
+Community-based car manufacturer [Wikispeed][6] shows that agile methods can successfully be applied to manufacturing as well. The project was initiated by Agile consultant Joe Justice (yes, that’s his name) in 2010. He wanted to participate in a contest of super energy-efficient cars. Within months the project had grown into a community project of volunteers.
+
+Joe, a software guy with little knowledge of how cars were built, started organising work the way he was used to. Modular design, iterative development and self-organising teams were, and are, at the core of Team Wikispeed. Even seemingly unlikely practices like test-driven development are used in order to deliver working hardware _weekly_. Watch this [TEDx video][7] and let Joe explain himself.
+
+### ICAgile Learning Tracks
+
+
+
+## A Manifesto – So What?
+![image](images/manifestos.png "Screen shot from http://images.google.com?q=manifesto")
+A manifesto, postulated by an informal group of seventeen practitioners, is not necessarily bound to be a game changer. These days, manifestos are all the rage and not all of them have a big impact on how most of us live our lives.
+
+The authors of the Manifesto for Agile Software Development have hit a nerve though. Only a few years in, even distinctive proponents of more rigid process models [acknowledged][5], that Agile had some merit, and today the Project Management Institute is sure to offer a certification for Agile. The topic has become commonplace in high schools, universities, and other providers of education. And, of course, in companies and corporations of all sizes.
+
+## Keeping the Manifesto Alive
+The Manifesto for Agile Software Development can be found in its original form at [agilemanifesto.org][1]. The web page is so [arpanet][2] style, you wouldn’t expect it to be only 13 years old. Does this mean the Manifesto itself has fallen out of date?
+
+As the manifesto itself states, the four comparisons have been discovered in the process of their authors trying to figure out how to improve the way we work together and build software. It can be expected, that pursuing that process further will lead to the discovery of new sets of things that need to be changed.
+
+…
+
+Adapting the agile manifesto to a particular context doesn’t render it useless. 
+
+
+[1]: http://agilemanifesto.org "Home of the Agile Manifesto"
+[2]: http://en.wikipedia.org/wiki/ARPANET "ARPANET at Wikipedia"
+[3]: http://www.forbes.com/sites/stevedenning/2011/05/04/innovation-applying-inspect-adapt-to-the-agile-manifesto/ "Steve Denning: Innovation: Applying “Inspect & Adapt” To The Agile Manifesto"
+[4]: http://agilemanifesto.org/principles.html "Principles behind the Agile Manifesto"
+[5]: http://www.computer.org/portal/web/computingnow/0709/whatsnew/software-r "Tom De Marco: Software Engineering: An Idea Whose Time Has Come and Gone?"
+[6]: http://wikispeed.org "Team Wikispeed website"
+[7]: http://youtu.be/x8jdx-lf2Dw "Joe Justice at TEDxRaineer"
+[^1]: “It somehow sounds like a bunch of skinny, feebleminded lightweight people trying to remember what day it is.”—Alistair Cockburn (in: <a href="http://agilemanifesto.org/history.html">History: The Agile Manifesto</a>)
+[^2]: <a href="http://en.wikipedia.org/wiki/Extreme_programming#History">The history of Extreme Programming</a> in Wikipedia.
+[^3]: <a href="http://en.wikipedia.org/wiki/Scrum_(software_development)#History">The history of Scrum</a> in Wikipedia.
+[^4]: “In preparing for battle, I have always found that plans are useless but planning is indispensable.”—Dwight D. Eisenhower
+[^5]: The term has been used <a href="http://www.gdi.ch/de/Think-Tank/Trend-News/Detail-Page/Die-Global-Thought-Leader-2013-br">excessively</a>, but I think it is appropriate in this case.
+[^6]: Peter F. Drucker with Joseph A. Maciarello, Management, Revised Edition, Harper Collins
+[^7]: Jurgen Appelo, Managemnt 3.0, Addison Wesley
+[^n]: For more information see <a href="http://www.slideshare.net/silkehermann39/the-3-structures-of-an-organization-white-paper" title="Betacodex whitepaper">Betacodex whitepaper presentation</a> on Slideshare by Niels Pflaeging and Silke Herma.

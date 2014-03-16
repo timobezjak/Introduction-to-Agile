@@ -1,0 +1,26 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'uninstall', 'npm', '-g' ]
+2 info using npm@1.2.11
+3 info using node@v0.8.21
+4 error Error: Cannot find module 'lru-cache'
+4 error     at Function.Module._resolveFilename (module.js:338:15)
+4 error     at Function.Module._load (module.js:280:25)
+4 error     at Module.require (module.js:362:17)
+4 error     at require (module.js:378:17)
+4 error     at Object.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/read-package-json/read-json.js:23:11)
+4 error     at Module._compile (module.js:449:26)
+4 error     at Object.Module._extensions..js (module.js:467:10)
+4 error     at Module.load (module.js:356:32)
+4 error     at Function.Module._load (module.js:312:12)
+4 error     at Module.require (module.js:362:17)
+5 error If you need help, you may report this log at:
+5 error     <http://github.com/isaacs/npm/issues>
+5 error or email it to:
+5 error     <npm-@googlegroups.com>
+6 error System Darwin 13.0.2
+7 error command "node" "/usr/local/bin/npm" "uninstall" "npm" "-g"
+8 error cwd /Users/timo/Documents/Liip/New Google Drive/ZHAW/Web-Engineering-Agile/Contents/00-Meta
+9 error node -v v0.8.21
+10 error npm -v 1.2.11
+11 error code MODULE_NOT_FOUND
+12 verbose exit [ 1, true ]
