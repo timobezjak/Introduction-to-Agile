@@ -1,8 +1,4 @@
 # Agile Values
-> “The 21st century is the age of complexity. It is the century where
-> managers realize that, to manage social complexity, they need to
-> understand how things grow. Not how they are built.”
-> —<em>Jurgen Appelo, Management 3.0</em>
 
 ## The Agile Manifesto
 <!-- 1.1.2. Agile Manifesto
@@ -17,16 +13,18 @@ The proclamation of the _Agile Manifesto_ marked a milestone in the evolution of
 
 The first, and perhaps most important part of the manifesto states, that agile development defines itself as an ongoing effort to improve on how we work. This effort doesn’t mainly consist in sitting and reflecting, but in doing: trying things, evaluating their effects and correcting measures as needed.
 
-In what looks like a recursive statement, this introductory phrase also states another important aspect: finding better ways is done by finding better ways _and_ helping others do the same (not only to learn from us.) Thus the primary goal is clearly defined as improving the way _everybody_ does software development
+In what looks like a recursive statement, this introductory phrase also states another important aspect: finding better ways is done by finding better ways _and_ helping others do the same (not only to learn from us.) Thus the primary goal is defined as improving the way _everybody_ does software development.
 
 ### Individuals and Interactions
 > Through this work we have come to value:
 > 
 > **Individuals and interactions** over processes and tools    
 
-Focusing on individuals looks a lot like a platitude until one recognises that traditional process models usually aim at ensuring stability of the system by making every worker in the chain as easily replaceable as possible. By focusing on each group members strengths and preferences, agile organisations deliberately accept a degree of vulnerability and dependence from their members that would be seen as irresponsible in traditional management practice.
+Focusing on individuals looks a lot like a platitude until one recognises that traditional process models usually aim at ensuring stability of the system by making every worker in the chain as easily replaceable as possible. By focusing on each group members strengths and preferences, agile organisations deliberately accept a degree of vulnerability and dependence from their members.
 
-Likewise, focusing on interactions between these individuals instead of just telling each worker where to get and put their workpieces and to whom to report may sound odd to people used to clear-cut policies and procedures. But a development team is a complex system, and so is the company to which it belongs. We need to find ways of aligning these interactions and steering them towards a common goal.
+Communication between these individuals must be open, honest and continuous in order to ensure a shared understanding of the product under development. It’s the team’s responsibility to define what to work on, how it must be done, and to then implement it. Agile process frameworks therefore arrange for regular synchronisation on the various levels of a project’s implementation, from pair programming with practically continuous communication all the way up to iteration planning meetings every few weeks.
+
+Direct interactions between the members of the project ensure continuous learning of the group without the disruption of written documents or standardised procedures. There may be situations where some standardisation will be helpful or even needed though.
 
 ### Working Software
 > Through this work we have come to value:
@@ -35,7 +33,9 @@ Likewise, focusing on interactions between these individuals instead of just tel
 
 Question: The software doesn’t quite work just yet, but 87% of the function points of the project have been implemented. How much of the scope has been done?—Answer: Zero. In agile terms, working software is the measure of all progress. Until you can prove your implementation works, and until you’ve actually delivered it as a _potentially shippable_ increment of the product, it represents _zero_ business value to your customer and thus cannot be considered even halfway done.
 
-We all know from our own experience: the last 20% take 80% of the time to finish – and another 2% take some more 50%. My own attempts at estimating how far I was into finishing whatever job have regularly failed – we all know what “I’ll join you in five minutes” means when we ask a colleague to have an after work beer with us. Turns out, the same applies to software development. Once you’re finished, you know where you stand.
+We all know from our own experience: the last 20% take 80% of the time to finish – and another 2% take some more 50%. My own attempts at estimating how far I was into finishing whatever job have regularly failed, even in far less complicated environments than software development – we all know what “I’ll join you in five minutes” usually means when we ask a colleague to have an after work beer with us. Turns out, the same applies to software development. Only once you’re finished, you know where you stand.
+
+There’s a common misunderstanding that valueing working software over comprehensive documentation means we don’t need documentation. Most software systems are complicated enough to warrant at least some documentation from an architectural overview to code comments. It is the team’s responsibility to figure out, together with its stakeholders, what documentation to write.
 
 ### Customer Collaboration
 > Through this work we have come to value:
@@ -44,7 +44,9 @@ We all know from our own experience: the last 20% take 80% of the time to finish
 
 Contracts are a good thing. Negotiating the terms of a collaboration gives us the chance to find a common understanding of how the involved parties wish to work together and what outcome they expect. But static as they are by nature, contracts shouldn’t define the things that are bound to change several times over the duration of a collaboration. Contracts for agile projects have to leave room for adaptation of both the process and the product under construction.
 
-The scope, implementation and priorities of a software product under development change twice a day. Agile projects are set up to deal with this kind of uncertainty in that they create maximum transparency on the current state of affairs among _all_ people involved with the project. To continuously define priorities is seen as a group effort, led by the customer or business representative.
+The scope, implementation and priorities of a software product under development can change twice a day, so fixing them with a contract is the wrong thing to do. Agile projects are set up to deal with this kind of uncertainty in that teams create maximum transparency on the current state of affairs among _all_ people involved with the project. This way the team and the customer are able to continuously negotiate and define the priorities of upcoming features.
+
+Frequent delivery of production-ready software allows the customer to verify that the results of this process meet his expectations and needs.
 
 ### Responding to Change
 > Through this work we have come to value:
@@ -53,7 +55,7 @@ The scope, implementation and priorities of a software product under development
 
 Planning is indispensable, but plans are worthless[^4]. Agile development processes therefore don’t merely accept that modifications to a project will will happen. Responding to change means actively and continuously dealing with these modifications. The term “inspect and adapt” describes an approach that is applied to the development of both the product _and_ the team.
 
-In regular intervals, teams thereby look at the current state of affairs and figure out what will be worked on next. Changes to markets, moods, budgets, organisation or any other needs are a natural part of this process. Refactoring or even undoing previous work is expected and considered to be indispensable in a learning process.
+In regular intervals, teams thereby look at the current state of affairs and figure out what will be worked on next. Changes to markets, moods, budgets, organisation or any other needs are a natural part of this process. Demonstrating working software to customers and end users further reinforces this because seeing and using it helps them understand their requirements better. Refactoring or even undoing previous work is expected and considered to be indispensable in a learning process. 
 
 ### Values
 > That is, while there is value in the items on

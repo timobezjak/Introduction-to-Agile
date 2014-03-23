@@ -6,9 +6,10 @@ Walking to the nearest grocery store from home can be planned in great detail. Y
 On the other hand, riding your bicycle across town to a friend who has just moved there is slightly more complex. It will require you to make a plan. That’s possible, because you 
 -->
 
-> When preparing for battle I have always found that
-> plans were useless, but planning was indispensable. 
-> <em>—Dwight D. Eisenhower</em>
+> “The 21st century is the age of complexity. It is the century where
+> managers realize that, to manage social complexity, they need to
+> understand how things grow. Not how they are built.”
+> —<em>Jurgen Appelo, Management 3.0</em>
 
 Some journeys cannot be planned in detail. All we know might be the goal, an improvement or experience we wish to achieve. When preparing for such a trip we try to anticipate some possible obstacles as well as resources that may lie on our way. And we will certainly be prepared to halt from time to time and figure out where we are and where to go next.
 
