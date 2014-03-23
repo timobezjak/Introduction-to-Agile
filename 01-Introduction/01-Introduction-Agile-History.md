@@ -74,8 +74,9 @@ Community-based car manufacturer [Wikispeed][6] shows that agile methods can suc
 
 Joe, a software guy with little knowledge of how cars were built, started organising work the way he was used to. Modular design, iterative development and self-organising teams were, and are, at the core of Team Wikispeed. Even seemingly unlikely practices like test-driven development are used in order to deliver working hardware _weekly_. Watch this [TEDx video][7] and let Joe explain himself.
 
+<!--
 ### ICAgile Learning Tracks
-
+-->
 
 
 ## A Manifesto – So What?

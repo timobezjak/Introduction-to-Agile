@@ -3,11 +3,11 @@
 Additionally to the values expressed in the manifesto itself, its authors declared the following twelve principles they followed. These principles can be seen as practical applications of the values of the Agile Manifesto, and as the ground from which they stem.
 
 
-## Our highest priority is to satisfy the customerthrough early and continuous delivery of valuable software.
+## Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
 ## Welcome changing requirements, even late indevelopment. Agile processes harness change for the customer's competitive advantage.
 
-## Deliver working software frequently, from acouple of weeks to a couple of months, with a preference to the shorter timescale.
+## Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
 
 ## Business people and developers must work together daily throughout the project.
 
@@ -23,6 +23,6 @@ Additionally to the values expressed in the manifesto itself, its authors declar
 
 ## Simplicity--the art of maximizing the amountof work not done--is essential.
 
-## The best architectures, requirements, and designsemerge from self-organizing teams.
+## The best architectures, requirements, and designs emerge from self-organizing teams.
 
 ## At regular intervals, the team reflects on howto become more effective, then tunes and adjustsits behavior accordingly.
