@@ -85,15 +85,9 @@ A manifesto, postulated by an informal group of seventeen practitioners, is not 
 
 The authors of the Manifesto for Agile Software Development have hit a nerve though. Only a few years in, even distinctive proponents of more rigid process models [acknowledged][5], that Agile had some merit, and today the Project Management Institute is sure to offer a certification for Agile. The topic has become commonplace in high schools, universities, and other providers of education. And, of course, in companies and corporations of all sizes.
 
+<!-- 
 ## Keeping the Manifesto Alive
-The Manifesto for Agile Software Development can be found in its original form at [agilemanifesto.org][1]. The web page is so [arpanet][2] style, you wouldn’t expect it to be only 13 years old. Does this mean the Manifesto itself has fallen out of date?
-
-As the manifesto itself states, the four comparisons have been discovered in the process of their authors trying to figure out how to improve the way we work together and build software. It can be expected, that pursuing that process further will lead to the discovery of new sets of things that need to be changed.
-
-…
-
-Adapting the agile manifesto to a particular context doesn’t render it useless. 
-
+-->
 <!-- Links -->
 [1]: http://agilemanifesto.org "Home of the Agile Manifesto"
 [2]: http://en.wikipedia.org/wiki/ARPANET "ARPANET at Wikipedia"
@@ -106,9 +100,14 @@ Adapting the agile manifesto to a particular context doesn’t render it useless
 [CC]: http://alistair.cockburn.us/Crystal+methodologies "Alistair Cockburn: Crystal Methodologies"
 [Pragprog]: http://pragprog.com/about "About Pragmatic Programmers"
 <!-- Footnotes -->
+
 [^1]: “It somehow sounds like a bunch of skinny, feebleminded lightweight people trying to remember what day it is.”—Alistair Cockburn (in: <a href="http://agilemanifesto.org/history.html">History: The Agile Manifesto</a>)
+
 [^2]: <a href="http://en.wikipedia.org/wiki/Extreme_programming#History">The history of Extreme Programming</a> in Wikipedia.
+
 [^3]: <a href="http://en.wikipedia.org/wiki/Scrum_(software_development)#History">The history of Scrum</a> in Wikipedia.
+
 [^5]: The term has been used <a href="http://www.gdi.ch/de/Think-Tank/Trend-News/Detail-Page/Die-Global-Thought-Leader-2013-br">excessively</a>, but I think it is appropriate in this case.
+
 [^6]: Peter F. Drucker with Joseph A. Maciarello, Management, Revised Edition, Harper Collins
 [^7]: Jurgen Appelo, Managemnt 3.0, Addison Wesley

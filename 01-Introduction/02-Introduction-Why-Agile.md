@@ -77,8 +77,9 @@ Also, as Rachel Davis [points out][TAoEC], software is called <em>soft</em>ware 
 > designs which are copies of the communication structures of these organizations
 > —M. Conway
 
+<!-- 
 ## So Why Agile?
-
+-->
 
 [Cynefin]: http://cognitive-edge.com/blog/type/cynefin/ "Cognitive Edge blog"
 [Structure-Behavior]: http://www.noop.nl/2010/09/simplicity-a-new-model.html "The Structure-Behavior Model"
