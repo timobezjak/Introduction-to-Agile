@@ -1,4 +1,5 @@
 # Agile Values
+Agility is an umbrella under which several project methodologies unite, each of which come with their values (e.g. [Scrum][Scrum-Values], [XP][XP-Values]). The _Manifesto for Agile Software Development_ defines a set of four core values common to all agile methodologies.
 
 ## The Agile Manifesto
 <!-- 1.1.2. Agile Manifesto
@@ -64,6 +65,10 @@ In regular intervals, teams thereby look at the current state of affairs and fig
 The manifesto explicitly does not condemn software engineering practice as a whole. Plans, processes, tools, documentation and contracts have all proven useful in many projects. What the manifesto claims is mainly that these artifacts must support (and not get in the way of) meaningful human-to-human interaction,
 
 <!-- Links and footnotes -->
+[Scrum-Values]: http://www.scrumalliance.org/why-scrum/core-scrum-values-roles "Scrum Values and Roles"
+[XP-Values]: http://www.extremeprogramming.org/values.html "Extreme Programming Values"
+
+
 [^4]: “In preparing for battle, I have always found that plans are useless but planning is indispensable.”—Dwight D. Eisenhower
 
 <!--
