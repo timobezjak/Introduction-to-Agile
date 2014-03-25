@@ -81,6 +81,9 @@ Also, as Rachel Davis [points out][TAoEC], software is called <em>soft</em>ware 
 <!-- 
 ## So Why Agile?
 -->
+--------
+
+CC-BY-SA Timo Bezjak
 
 [Cynefin]: http://cognitive-edge.com/blog/type/cynefin/ "Cognitive Edge blog"
 [Structure-Behavior]: http://www.noop.nl/2010/09/simplicity-a-new-model.html "The Structure-Behavior Model"
@@ -119,3 +122,5 @@ Agil kann höhere Produktivität bringen, aber das soll das (alleinige) Ziel nic
 Agil vs. iterativ vs. Wasserfall (file:///private/var/folders/9x/xkfp8qy115v7f43pbf0mv1tc0000gp/T/calibre_1.0.0_tmp_s8a_t1/Gu5LFJ_ebook_iter/OEBPS/httpatomoreillycomsourceoreillyimages26617.png) vs. (file:///private/var/folders/9x/xkfp8qy115v7f43pbf0mv1tc0000gp/T/calibre_1.0.0_tmp_s8a_t1/Gu5LFJ_ebook_iter/OEBPS/httpatomoreillycomsourceoreillyimages26619.png)
 
 -->
+
+

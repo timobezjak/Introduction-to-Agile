@@ -85,6 +85,10 @@ A manifesto, postulated by an informal group of seventeen practitioners, is not 
 
 The authors of the Manifesto for Agile Software Development have hit a nerve though. Only a few years in, even distinctive proponents of more rigid process models [acknowledged][5], that Agile had some merit, and today the Project Management Institute is sure to offer a certification for Agile. The topic has become commonplace in high schools, universities, and other providers of education. And, of course, in companies and corporations of all sizes.
 
+--------
+
+CC-BY-SA Timo Bezjak
+
 <!-- 
 ## Keeping the Manifesto Alive
 -->
@@ -111,3 +115,5 @@ The authors of the Manifesto for Agile Software Development have hit a nerve tho
 
 [^6]: Peter F. Drucker with Joseph A. Maciarello, Management, Revised Edition, Harper Collins
 [^7]: Jurgen Appelo, Managemnt 3.0, Addison Wesley
+
+

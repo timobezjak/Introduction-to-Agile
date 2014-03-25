@@ -64,6 +64,10 @@ In regular intervals, teams thereby look at the current state of affairs and fig
 
 The manifesto explicitly does not condemn software engineering practice as a whole. Plans, processes, tools, documentation and contracts have all proven useful in many projects. What the manifesto claims is mainly that these artifacts must support (and not get in the way of) meaningful human-to-human interaction,
 
+--------
+
+CC-BY-SA Timo Bezjak
+
 <!-- Links and footnotes -->
 [Scrum-Values]: http://www.scrumalliance.org/why-scrum/core-scrum-values-roles "Scrum Values and Roles"
 [XP-Values]: http://www.extremeprogramming.org/values.html "Extreme Programming Values"
@@ -91,3 +95,5 @@ Maximising the work not done
 Defer decisions, defer commitment to last responsible moment
 Best practice is past practice
 -->
+
+

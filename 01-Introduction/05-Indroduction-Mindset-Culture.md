@@ -6,7 +6,7 @@ The Scrum Guide states that Scrum is easy to understand, but hard to implement. 
 Many people come to Agile looking for "the Agile process". However, while some processes and methodologies may be more supportive or common in Agile organizations than others, the mindset must come first.
 The purpose of this LO is to help learners understand that Agile is a mindset. -->
 
-It has come to most software managers’ attention that teams and projects that follow the principles of Agile produce [better results at lower cost][Standish] compared to more rigid and hierarchical models. Replacing the exisiting process model with an “agile” one therefore looks like the natural thing to do.
+It has come to most software managers’ attention that teams and projects that follow the principles of Agile produce [better results at lower cost][Standish]  compared to more rigid and hierarchical models. Replacing the exisiting process model with an “agile” one therefore looks like the natural thing to do.
 
 Coaches even go to great lengths trying to help _translate_ between the two worlds: The product manager will take on the role of the Product Owner; the team lead will be the Scrum Master; project managers will be … well perhaps we’ll still need someone to track progress and manage resources (see [this thread][Scrum-PM] on LinkedIn). Likewise, requirements engineers will be required to write down their findings into separate documents that will from now on be called User Stories. Forecasts will be drawn from Story Point estimates, as will be progress reporting. The daily stand-up meeting will be used to report the state of affairs to the Product Owner. This is how it becomes obvious what you, as an experienced project manager, knew all along: Agile is just the same thing we did for decades with new names that make it look friendlier to generation X or Y people.
 
@@ -58,6 +58,10 @@ Another often-cited model is _The Dreyfus Model of Skills Acquisition_. It separ
 
 Similarly, teams and organisations go through several stages of “maturity” or “fluency” – as Diana Larsen and James Shore name it in their paper _[Agile Fluency][AF]_ in accordance with language acquisition.
 
+--------
+
+CC-BY-SA Timo Bezjak
+
 <!-- Links -->
 [Standish]: http://www.mountaingoatsoftware.com/blog/agile-succeeds-three-times-more-often-than-waterfall "Moutain Goat: Agile Succeeds Three Times More Often"
 [Scrum-PM]: http://www.linkedin.com/groups/How-can-Project-Manager-add-3786271.S.76494447 "How can project managers add to Scrum?"
@@ -84,3 +88,5 @@ How to be agile
       * Shu-ha-ri, Dreyfus model
    * Establish this mindset in the learner
 -->
+
+

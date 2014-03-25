@@ -26,3 +26,6 @@ Additionally to the values expressed in the manifesto itself, its authors declar
 ## The best architectures, requirements, and designs emerge from self-organizing teams.
 
 ## At regular intervals, the team reflects on howto become more effective, then tunes and adjustsits behavior accordingly.
+
+
+
