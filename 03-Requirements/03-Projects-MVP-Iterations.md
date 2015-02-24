@@ -6,6 +6,12 @@ The purpose of this LO is to understand the concept and value of incremental dev
 An unprepared team can suffer from reacting too vigorously to change requests.
 The purpose of this LO is to introduce ways to handle the influx of change requests that come from frequent customer interaction and frequent delivery. -->
 
+<!-- * Responding to change
+  * Welcome changing requirements, even late indevelopment. Agile processes harness change for the customer’s competitive advantage.
+  * Continuous attention to technical excellence and good design enhances agility.
+  * Simplicity–the art of maximizing the amountof work not done–is essential.
+-->
+
 <!-- 
    * Product Adaptation
    * 

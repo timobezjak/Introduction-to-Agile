@@ -1,8 +1,10 @@
 # Cross-Functional Teams
-## Understanding Communication Barriers
+
+## Effective Communication
 <!-- 2.1.2. Understanding communication barriers
 Projects can be impacted when organizations underestimate the cost of physical and cultural separation.
 The purpose of this LO is to review the costs of physical and cultural distances, and to introduce ways to successfully address the communication barriers these can raise. -->
+> The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
 
 ## Sharing Knowledge
 <!-- 2.1.3. Sharing knowledge

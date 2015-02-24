@@ -1,9 +1,10 @@
 # Agile Methods – An Overview
+
 While Scrum is arguably the most well-known of Agile frameworks, there are of course many others. And while Scrum focuses entirely on the project management-level aspects of software development[^1], others cover slightly different aspects of the whole process.
 
 [^1]: Scrum has also famously been applied outside of software development, such as for building low-cost, low-emission cars in project Wikispeed (www.wikispeed.org).
----
 
+<!--
 What is an agile method, what does it contain
 Zwiebel/Landschaft
 Values, Principles, Practices
@@ -68,3 +69,4 @@ Customisation and by-the-book method
       * (Scrumban)
       * DSDM
 
+-->
