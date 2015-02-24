@@ -3,7 +3,7 @@
 <!--
 Walking to the nearest grocery store from home can be planned in great detail. You’ve done it before and chances are you can just repeat last week’s walk to get there again.
 
-On the other hand, riding your bicycle across town to a friend who has just moved there is slightly more complex. It will require you to make a plan. That’s possible, because you 
+On the other hand, riding your bicycle across town to a friend who has just moved there is slightly more complex. It will require you to make a plan. That’s possible, because you
 -->
 
 > “The 21st century is the age of complexity. It is the century where
@@ -25,7 +25,7 @@ Complexity is also different from order (or complicatedness), in which cause and
 ## Linear Thinking
 Non adaptive systems behave like ballistic projectiles: once fired, they follow the laws of physics until they reach (or miss) their target. The same thing happens when we separate thinking from doing, as implemented in waterfall project organisations, where implementation has to exactly follow the design created by the architects in the conception phase.
 
-In 1970, Winston W. Royce presented a model for software development ([PDF][WRR-Waterfall]) which is now referred to as _Waterfall Model_. It describes a sequence of development steps from Systems Requirements all the way down to Operations with transitions only between directly neighbouring phases. 
+In 1970, Winston W. Royce presented a model for software development ([PDF][WRR-Waterfall]) which is now referred to as _Waterfall Model_. It describes a sequence of development steps from Systems Requirements all the way down to Operations with transitions only between directly neighbouring phases.
 
 ![The Waterfall Model](images/royce-waterfall.png "Winston W. Royce’s non model")
 
@@ -78,7 +78,7 @@ Also, as Rachel Davis [points out][TAoEC], software is called <em>soft</em>ware 
 > designs which are copies of the communication structures of these organizations
 > —M. Conway
 
-<!-- 
+<!--
 ## So Why Agile?
 -->
 --------
@@ -95,17 +95,17 @@ CC-BY-SA Timo Bezjak
 
 <!--
    * Projektmanagement
-   * 
+   *
       * Planung
       * Messung
       * Aufgabenteilung
       * Zeit–Kosten–Qualität
    * Vergleich mit "sequenzieller" Projektstruktur
-   * 
+   *
       * Wasserfall
       * V-Modell
    *  Wissensarbeit und Motivation
-   * 
+   *
       * Drucker, Ackoff, Deming
       * Pink
    * Innovation
@@ -114,7 +114,7 @@ CC-BY-SA Timo Bezjak
       * Pull Scheduling
 
       * Scientific Management und Industrialisierung
-      * 
+      *
          * Denken–Ausführen
 
 
@@ -122,5 +122,3 @@ Agil kann höhere Produktivität bringen, aber das soll das (alleinige) Ziel nic
 Agil vs. iterativ vs. Wasserfall (file:///private/var/folders/9x/xkfp8qy115v7f43pbf0mv1tc0000gp/T/calibre_1.0.0_tmp_s8a_t1/Gu5LFJ_ebook_iter/OEBPS/httpatomoreillycomsourceoreillyimages26617.png) vs. (file:///private/var/folders/9x/xkfp8qy115v7f43pbf0mv1tc0000gp/T/calibre_1.0.0_tmp_s8a_t1/Gu5LFJ_ebook_iter/OEBPS/httpatomoreillycomsourceoreillyimages26619.png)
 
 -->
-
-
