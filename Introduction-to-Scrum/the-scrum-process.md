@@ -3,7 +3,7 @@
 ![The Scrum Double Loops][double-loops]
 The Scrum process is simple to understand, yet difficult to implement. It defines a few roles, events and artifacts, as shown below, and its basic working is usually explained using the double loops illustration displayed above. The full, authoritative definition of Scrum is contained in a small booklet, the [Scrum Guide], which is available for download on the internet. It is regularly revised and updated by its maintainers, the inventors of Scrum, Jeff Sutherland and Ken Schwaber.
 
-## Sprint (Without Haste)
+## Sprint (Don’t Rush)
 What the illustration fundamentally shows is the transformation of user needs into a new version of a product under development. The basic unit of this transformation is called a _Sprint_ in Scrum terminology, or an iteration in more general terms. Each Sprint is a _mini project_ that takes one to four weeks, with a preference for the shorter time scale, and is immediately followed by another Sprint throughout the project until it finishes.
 
 This means that the team must not be exhausted at the end of a Sprint, which makes the term somewhat misleading. A Scrum project must be managed in such way that everyone involved keeps working at a _sustainable pace_, i. e. under a work load that would, in theory, allow the project to go on forever.
@@ -18,13 +18,31 @@ Considering the current project state, the Scrum Team identifies what should be 
 
 In the second part of the Sprint Planning, the Development Team defines _how_ it plans to achieve the Sprint Goal. What are the tasks? What do we have to learn? Which work items will we pair up for? At the end of the second part, the Development Team declares their readiness to go for the Sprint Goal. Any trouble that has the potential to block the Development Team from reaching the Sprint Goal needs to be communicated and resolved with the Product Owner and Scrum Master immediately.
 
-After the Sprint Planning, the Sprint is scope and goal are immutable. Even if at some point during the Sprint the Product Owner feels some of it has become obsolete, it cannot be changed. The Sprint can, however, be cancelled at any moment, at the Product Owner’s discretion. It is an extreme measure that generally has to be avoided.
+After the Sprint Planning, the Sprint’s scope and goal are immutable. Even if at some point during the Sprint the Product Owner feels some of it has become obsolete, it cannot be changed. The Sprint can, however, be cancelled at any moment, at the Product Owner’s discretion. It is an extreme measure that generally has to be avoided.
 
 ### Daily Stand-Up
+Every day at a fixed time, the Scrum team stands together to very quickly exchange the most vital status information so everyone is on the same page. Each member of the group answer three questions:
+1. Which work items did I finish since last Daily Stand-up?
+1. Which work items am I going to work on next?
+1. Are there any impediments, anything I need help with?
+
+Answering to these questions shouldn’t take more than 10–15 minutes for any resonably-sized team. Additionally to making sure everyone understands how much of the work has been done, the Daily Stand-up also ensures that upcoming problems be raised ad fixed at the earliest possible moment. This is a crucial element of Scrum’s quality management strategy.
 
 ### Sprint Review
+At the end of each sprint, the developers show and explain their implementations of the Sprint’s planned work, thereby also explaining if and how the Sprint Goal was reached. The Product Owner is invited to try out features and to ask questions about their implementation and properties.
+
+The Product Owner also verifies if the implementations meet his acceptance criteria, as defined at or before Sprint beginning. If so, the new feature is accepted into the new increment of the product. Otherwise, finishing the feature is scheduled for an upcoming Sprint.
 
 ### Sprint Retrospective
+And the end of each sprint, the team also takes the time to reflect on their way to collaborate. What did work out well? Which practices need improvement? Did communication flow without friction? Usually, the team will define a small number of experiments aimed at working together more effectively, or in a more enjoyable way.
+
+Adjustments can be made at any time, but the retrospective provides a formal structure to do so regularly. Attacking problems early, and continuously adjusting to a changing environment, is not only less invasive than infrequent organisational change. It is also more effective in at least two ways.
+
+First, problems (or deviations) summarise over time. If you walk in a slightly wrong direction for two days, you may end up in a very unexpected place. Taking a rest every hour to figure out where you send and how to continue will actually save you a lot of time reaching your target destination.
+
+Second, frequent small changes help you understand their results better, due to short feedback loops. Only one change at a time, is the most basic rule of scientific experimentation. Combining many changes into a big package will be likely to leave cause and effect relationships in the dark.
+
+Also, frequent retrospectives keep the team used to question and improve things, and to do all they can to keep motivation and efficiency high.
 
 ## Artifacts
 
@@ -43,6 +61,11 @@ After the Sprint Planning, the Sprint is scope and goal are immutable. Even if a
 ### Scrum Master
 
 ## The Project Environment
+
+### The Definition of Done
+Quality expectations can vary wildly between Scrum projects. They depend on several factors, like strategic priority of the project, the client’s or the team’s guidelines and abilities, regulatory needs etc. Also, quality is a versatile term – its use can easily lead to misunderstandings.
+
+To avoid this, the Scrum Team needs to create a shared understanding and to clearly define which criteria need to be met in order for a Product Backlog Item to be _done_. The document containing this definition is called the _Definition of Done_. All implementations must meet the standards defined therein.
 
 ### Stakeholders
 
