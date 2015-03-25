@@ -36,19 +36,29 @@ The Product Owner also verifies if the implementations meet his acceptance crite
 ### Sprint Retrospective
 And the end of each sprint, the team also takes the time to reflect on their way to collaborate. What did work out well? Which practices need improvement? Did communication flow without friction? Usually, the team will define a small number of experiments aimed at working together more effectively, or in a more enjoyable way.
 
-Adjustments can be made at any time, but the retrospective provides a formal structure to do so regularly. Attacking problems early, and continuously adjusting to a changing environment, is not only less invasive than infrequent organisational change. It is also more effective in at least two ways.
+Adjustments can be made at any time, but the retrospective provides a formal structure to do so regularly. Attacking problems early, and continuously adjusting to a changing environment, is not only less invasive than infrequent organisational change. It also helps to detect problems early and attack them effectively.
+
+<!-- # For a separate text on retrospecives
+It is also more effective in at least two ways.
 
 First, problems (or deviations) summarise over time. If you walk in a slightly wrong direction for two days, you may end up in a very unexpected place. Taking a rest every hour to figure out where you send and how to continue will actually save you a lot of time reaching your target destination.
 
-Second, frequent small changes help you understand their results better, due to short feedback loops. Only one change at a time, is the most basic rule of scientific experimentation. Combining many changes into a big package will be likely to leave cause and effect relationships in the dark.
+Second, frequent small changes help you understand their results better, due to short feedback loops. Only one change at a time, is the most basic rule of scientific experimentation. Combining many changes into a big package will be likely to leave cause and effect relationships in the dark. -->
 
 Also, frequent retrospectives keep the team used to question and improve things, and to do all they can to keep motivation and efficiency high.
 
 ## Artifacts
+Scrum distinguishes a mere three artifacts – comprehensive documentation is not seen as value delivered to the end user. The cross-functional structure of a Scrum team also limits hand-overs to a minimum, effectively reducing the need for writing down the details.
 
 ### Product Backlog
+Any requirements identified are written down as _Product Backlog Items_ (PBI), usually in the form of _User Stories_. Hence, it is the _Product Backlog_ that holds any planned product functionality.
+
+The Product Backlog should actively be kept to a reasonable number of items. Too few, and you may run out of ideas what to build. Too many, and you will find yourself blocked from responding to change in or around the project. In other words: your ability to work in an agile way. Also, the more items are in a backlog, the greater the administrative overhead for selecting, prioritising, and estimating them.
 
 ### Sprint Backlog
+In the Sprint Planning meeting, backlog items are moved from the Product Backlog to the Sprint Backlog. Once in the Sprint Backlog, they are entirely owned by the Development Team. During the sprint, nothing can be added to, or removed from, the Sprint Backlog, and neither can Product Backlog Items be altered in any way. This immutability is necessary for the team to effectively plan and do the implementation. It’s their responsibility, so no-one else can interfere.
+
+Product owners and stakeholders are notorious for pointing out the need to react to change quickly, not allowing to wait for a whole sprint to finish. But changing one’s mind every other day and pushing others to constantly adapt to that is _not_ what agility is about. Going at a sustainable pace invariably implies avoiding firefighting sessions.
 
 ### Increment
 
@@ -61,6 +71,8 @@ Also, frequent retrospectives keep the team used to question and improve things,
 ### Scrum Master
 
 ## The Project Environment
+
+### The Product Vision
 
 ### The Definition of Done
 Quality expectations can vary wildly between Scrum projects. They depend on several factors, like strategic priority of the project, the client’s or the team’s guidelines and abilities, regulatory needs etc. Also, quality is a versatile term – its use can easily lead to misunderstandings.

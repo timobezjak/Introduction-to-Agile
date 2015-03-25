@@ -14,6 +14,9 @@ The purpose of this LO is to develop and practice techniques for breaking proble
 
 (Implement the simplest thing that will do)
 
+There is a big temptation to write as many User Stories as possible even at an early stage of the project; every bit of functionality that may or may not be needed would be written down, so that all could be prioritised properly. New idea? New story!
+
+Avoid that trap.
 
 ## The Big Picture
 (Story map, canvas; prioritised PBL)
@@ -24,4 +27,3 @@ The purpose of this LO is to develop and practice techniques for breaking proble
   * Continuous attention to technical excellence and good design enhances agility.
   * Simplicity–the art of maximizing the amountof work not done–is essential.
 -->
-
