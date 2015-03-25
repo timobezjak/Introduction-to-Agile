@@ -58,9 +58,12 @@ The Product Backlog should actively be kept to a reasonable number of items. Too
 ### Sprint Backlog
 In the Sprint Planning meeting, backlog items are moved from the Product Backlog to the Sprint Backlog. Once in the Sprint Backlog, they are entirely owned by the Development Team. During the sprint, nothing can be added to, or removed from, the Sprint Backlog, and neither can Product Backlog Items be altered in any way. This immutability is necessary for the team to effectively plan and do the implementation. It’s their responsibility, so no-one else can interfere.
 
-Product owners and stakeholders are notorious for pointing out the need to react to change quickly, not allowing to wait for a whole sprint to finish. But changing one’s mind every other day and pushing others to constantly adapt to that is _not_ what agility is about. Going at a sustainable pace invariably implies avoiding firefighting sessions.
+Product owners and stakeholders are notorious for pointing out the need to react to change quickly, not allowing to wait for a whole sprint to finish. But changing one’s mind every other day and pushing others to constantly adapt to that is _not_ what agility is about. Quite the opposite – going at a sustainable pace invariably implies avoiding firefighting sessions.
 
 ### Increment
+Agile teams accept running software as their only measure of progress. Having finished a “concept phase” is equivalent to having accomplished 0% of the project’s goal.
+
+Scrum teams, therefore, deliver a new version of the product by the end of each sprint. It is called the Product Increment and contains the newly-implemented User Stories and has production-level quality. It’s the product owner’s decision if the increment should be put into production or not.
 
 ## Roles – The Scrum Team
 
