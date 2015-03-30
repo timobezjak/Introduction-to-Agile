@@ -66,12 +66,24 @@ Agile teams accept running software as their only measure of progress. Having fi
 Scrum teams, therefore, deliver a new version of the product by the end of each sprint. It is called the Product Increment and contains the newly-implemented User Stories and has production-level quality. It’s the product owner’s decision if the increment should be put into production or not.
 
 ## Roles – The Scrum Team
+Scrum roles are clear and simple. If everyone on the team live up to their tasks, everything important to the project will be taken care of. The difficulty is, that doing just that entails much more than immediately meets the eye.
 
 ### Product Owner
+… Which brings us to the Product Owner. The Product Owner has _one job_: To manage the Product Backlog. However, it’s hers to figure out, how she wants to do that. She’ll need to talk to a steering committee, to their line managers, to her line manager. To the sponsor. She’ll also want to learn from end users directly how they will use the product. She’ll talk to the developers, since they know how to build things.
+
+Managing a product backlog doesn’t mean to only write down requirements. They have to be sorted, prioritised, and often discarded. The product backlog needs structure so it can be understood and communicated. One job, lots of work.
+
+As the Scrum Guide states: Its the Product Owner’s goal to maximise the value of the team’s work.
 
 ### Development Team
+The Development Team is responsible for building a new Increment of the system each Sprint. The Development Team self-organises to optimally work together; it can rely only on its own members, therefore it can accept only Backlog Items into the Sprint that can be implemented without external dependencies.
+
+All necessary expertise therefore has to be available on the team. From a Scrum perspective, there is no distinction between roles or job titles at the Development Team level. The team is responsible as a group.
 
 ### Scrum Master
+It is the Scrum Master’s job to ensure everyone involved understands Scrum and work according to the Scrum Team’s agreements. This includes coaching and training the Product Owner, the Development Team _and_ the rest of the organisation.
+
+He helps all to communicate effectively and in ways supporting the common goal.
 
 ## The Project Environment
 
