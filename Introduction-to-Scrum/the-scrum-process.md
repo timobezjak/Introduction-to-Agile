@@ -1,6 +1,6 @@
 # The Scrum Process
 
-![The Scrum Double Loops][double-loops]
+![The Scrum Double Loops][image-double-loops]
 The Scrum process is simple to understand, yet difficult to implement. It defines a few roles, events and artifacts, as shown below, and its basic working is usually explained using the double loops illustration displayed above. The full, authoritative definition of Scrum is contained in a small booklet, the [Scrum Guide], which is available for download on the internet. It is regularly revised and updated by its maintainers, the inventors of Scrum, Jeff Sutherland and Ken Schwaber.
 
 ## Sprint (Don’t Rush)
@@ -68,6 +68,8 @@ Scrum teams, therefore, deliver a new version of the product by the end of each 
 ## Roles – The Scrum Team
 Scrum roles are clear and simple. If everyone on the team live up to their tasks, everything important to the project will be taken care of. The difficulty is, that doing just that entails much more than immediately meets the eye.
 
+![The Scrum Team][image-scrum-team]
+
 ### Product Owner
 … Which brings us to the Product Owner. The Product Owner has _one job_: To manage the Product Backlog. However, it’s hers to figure out, how she wants to do that. She’ll need to talk to a steering committee, to their line managers, to her line manager. To the sponsor. She’ll also want to learn from end users directly how they will use the product. She’ll talk to the developers, since they know how to build things.
 
@@ -99,5 +101,6 @@ To avoid this, the Scrum Team needs to create a shared understanding and to clea
 ### Legacy
 
 
-[double-loops]: files/Double-Loops.jpg "Backlog->Iteration->Increment"
+[image-double-loops]: files/Double-Loops.jpg "Backlog->Iteration->Increment"
+[image-scrum-team]: files/Scrum-Team.jpg "Product Owner, Developers, Scrum Master"
 [Scrum Guide]: http://www.scrumguides.org "Download Scrum Guides"
