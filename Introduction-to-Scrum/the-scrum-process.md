@@ -87,6 +87,13 @@ It is the Scrum Master’s job to ensure everyone involved understands Scrum and
 
 He helps all to communicate effectively and in ways supporting the common goal.
 
+## Putting it All Together
+As a whole, this set of events, artifacts and roles defines a minimal setup for any complex software development project. Changing any of them will damage their mutual reinforcement, and thus result in a much less effective development environment.
+
+On the other hand, it isn’t anything _more_ than a well-balanced, minimal project setup either. At a more detailed level, the developers will have to establish development practices to complement the project setup. Likewise, the Scrum Master will work on her facilitation, moderation, and motivational skills; and the Product Owner will have to set up processes and technique to discover, understand, and communicate user needs. Scrum is entirely agnostic about _how_ team members fulfill their roles.
+
+The same is true at a higher flight level. Scrum tells us nothing about program or organisational management. Teams and managers will have to grow environments within which Scrum teams can thrive.
+
 
 [image-double-loops]: files/Double-Loops.jpg "Backlog->Iteration->Increment"
 [image-scrum-team]: files/Scrum-Team.jpg "Product Owner, Developers, Scrum Master"
