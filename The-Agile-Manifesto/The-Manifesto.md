@@ -12,27 +12,25 @@ The proclamation of the _Agile Manifesto_ marked a milestone in the evolution of
 > software by doing it and helping others do it.
 > Through this work we have come to value:
 
-The first, and perhaps most important part of the manifesto states, that agile development defines itself as an ongoing effort to improve on how we work. This effort doesn’t mainly consist in sitting and reflecting, but in doing: trying things, evaluating their effects and correcting measures as needed.
+The first, and perhaps most important part of the manifesto states that agile development defines itself as an ongoing effort to improve on how we work. This effort doesn’t mainly consist in sitting and reflecting, but in doing: trying things, evaluating their effects and correcting measures as needed.
 
 In what looks like a recursive statement, this introductory phrase also states another important aspect: finding better ways is done by finding better ways _and_ helping others do the same (not only to learn from us.) Thus the primary goal is defined as improving the way _everybody_ does software development.
 
 ### Individuals and Interactions
-> Through this work we have come to value:
->
+> Through this work we have come to value:  
 > **Individuals and interactions** over processes and tools
 
 Focusing on individuals looks a lot like a platitude until one recognises that traditional process models usually aim at ensuring stability of the system by making every worker in the chain as easily replaceable as possible. By focusing on each group member’s strengths and preferences, agile organisations deliberately accept a degree of vulnerability and dependence from their members.
 
-Communication between these individuals must be open, honest and continuous in order to ensure a shared understanding of the product under development. It’s the team’s responsibility to define what to work on, how it must be done, and to then implement it. Agile process frameworks therefore arrange for regular synchronisation on the various levels of a project’s implementation, from pair programming with practically continuous communication all the way up to iteration planning meetings every few weeks.
+Ongoing, open and honest communication in the team is essential for creating a shared understanding of the product under development. It’s the team’s responsibility to define how to implement functionality, so a deep and shared understanding of the user needs is essential. Agile process frameworks therefore arrange for regular synchronisation on the various levels of a project’s implementation, from pair programming with practically continuous communication all the way up to iteration planning meetings every few weeks.
 
 Direct interactions between the members of the project ensure continuous learning of the group without the disruption of written documents or standardised procedures. There may be situations where some standardisation will be helpful or even needed though.
 
 ### Working Software
-> Through this work we have come to value:
->
+> Through this work we have come to value:  
 > **Working software** over comprehensive documentation  
 
-Question: The software doesn’t quite work just yet, but 87% of the function points of the project have been implemented. How much of the scope has been implemented?—Answer: Zero. In agile terms, working software is the measure of all progress. Until you can prove your implementation works, and until you’ve actually delivered it as a _potentially shippable_ increment of the product, it represents _zero_ business value to your customer and thus cannot be considered even halfway done.
+Question: The software doesn’t quite work just yet, but 87% of the function points of the project have been implemented. How much value has been generated for the customer?—Answer: Zero. In agile terms, working software is the measure of all progress. Until you can prove your implementation works, and until you’ve actually delivered it as a _potentially shippable_ increment of the product, it represents _zero_ business value to your customer and thus cannot be considered even halfway done.
 
 We all know from our own experience: the last 20% take 80% of the time to finish – and another 2% take some more 50%. My own attempts at estimating how far I was into finishing whatever job have regularly failed, even in far less complicated environments than software development. Only once you’re finished do you know where you stand.
 
@@ -41,8 +39,7 @@ There’s a common misunderstanding that valueing working software over comprehe
 The important thing to grasp is that wherever there is a handover, there is usually a need for some documentation: Sketches, concepts, requirements – whatever the silo produces. Crossfunctional implementation of working software means fewer handovers and thus less documentation. Not to mention the loss of information that comes with all handovers.
 
 ### Customer Collaboration
-> Through this work we have come to value:
->
+> Through this work we have come to value:  
 > **Customer collaboration** over contract negotiation  
 
 Contracts are a good thing. Negotiating the terms of a collaboration gives us the chance to find a common understanding of how the involved parties wish to work together and what outcome they want. But static as they are by nature, contracts shouldn’t define the things that are expected to change several times over the duration of a collaboration. Contracts for agile projects have to leave room for adaptation of both the process and the product under construction.
@@ -52,11 +49,10 @@ The scope, implementation and priorities of a software product under development
 Frequent delivery of production-ready software allows the customer to verify that the results of this process meet his expectations and needs. This alone will help you build the trustful relationship you want to work in.
 
 ### Responding to Change
-> Through this work we have come to value:
->
+> Through this work we have come to value:  
 > **Responding to change** over following a plan  
 
-Planning is indispensable, but plans are worthless[^4]. Agile development processes therefore don’t merely accept that modifications to a project will will happen. Responding to change means actively and continuously dealing with these modifications. The term “inspect and adapt” describes an approach that is applied to the development of both the product _and_ the team.
+Planning is indispensable, but plans are worthless[^4]. Agile development processes therefore don’t merely accept that modifications to a project will happen. Responding to change means actively and continuously dealing with these modifications. The term “inspect and adapt” describes an approach that is applied to the development of both the product _and_ the team.
 
 In regular intervals, teams thereby look at the current state of affairs and figure out what will be worked on next. Changes to markets, moods, budgets, organisation or any other needs are a natural part of this process. Demonstrating working software to customers and end users further reinforces this because seeing and using it helps them understand their requirements better. Refactoring or even undoing previous work is expected and considered to be indispensable in a learning process.
 
@@ -74,7 +70,7 @@ CC-BY-SA Timo Bezjak
 [Scrum-Values]: http://www.scrumalliance.org/why-scrum/core-scrum-values-roles "Scrum Values and Roles"
 [XP-Values]: http://www.extremeprogramming.org/values.html "Extreme Programming Values"
 
-[^1]: More often that not people bringing this up helplessly try to make fun of a concept they fail to grasp.
+[^1]: More often that not people bringing this up helplessly trying to make fun of a concept they fail to grasp.
 
 [^4]: “In preparing for battle, I have always found that plans are useless but planning is indispensable.”—Dwight D. Eisenhower
 
